@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988292064167",
+    "project_id": "hover-demo-a401f",
+    "storage_bucket": "hover-demo-a401f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988292064167:android:ab64b66f799ca2f6f10c82",
+        "android_client_info": {
+          "package_name": "com.hover_react_native"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBWEZpJudEWeZMQVsn1r4tnEKfRlzKMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
